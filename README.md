@@ -12,7 +12,7 @@ Eu sou <strong>Luiza Campos</strong>, <strong> Estou iniciando na programação 
 
 <div align="center">
 
-  <a href="luizaa.campoos10@gmail.com" alt="Gmail">
+  <a href="mailto:luizaa.campoos10@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
 
   <a href="https://www.linkedin.com/in/luizacampos99/" alt="Linkedin">
