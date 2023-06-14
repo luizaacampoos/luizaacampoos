@@ -12,9 +12,9 @@ Eu sou <strong>Luiza Campos</strong>, <strong> Estou iniciando na programação 
 
 <div align="center">
 
-  <a href="#link" alt="Gmail">
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
 
-  <a href="#link" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/luizacampos99/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 </div>
